@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Remember to add the firebase keys to the .env file
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
